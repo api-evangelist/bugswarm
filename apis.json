@@ -1,0 +1,39 @@
+{
+    "name": "Bugswarm",
+    "description": "<p><span>Acquire data from and control embedded devices using JavaScript or plain old HTTP. Combine multiple resources together to create a swarm. Once a member of a swarm, a resource can communicate and share data with other resources in that swarm. Control the level of access a resource has to a swarm. Grant a resource permission to produce data, consume data, or do both. Invite another user's resources into your swarms and accept invitations to place your resources in somebody else's swarms. Share your data easily and securely.<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/bugswarm-logo.png",
+    "tags": [
+        "api provider",
+        "data",
+        "devices",
+        "have api",
+        "internet of things   dead"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bugswarm\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Bugswarm",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/bugswarm-logo.png",
+            "humanURL": "http:\/\/developer.bugswarm.net\/index.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bugswarm-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.bugswarm.net\/index.html"
+        }
+    ]
+}
